@@ -12,4 +12,4 @@ override.tf.json - игнорирутеся файл с именем override.tf
 *_override.tf - игнорируются файлы с любым именем, но в имени должно присутствовать _override.tf
 *_override.tf.json - игнорируются файлы с любым именем, но в имени должно присутствовать _override.tf.json
 .terraformrc - игнорирутеся файл с именем .terraformrc
-terraform.rc - игнорирутеся файл с именем terraform.rc
+terraform.rc - игнорирутеся файл с именем terraform.rcНовая строка
